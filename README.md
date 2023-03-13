@@ -1,1 +1,1 @@
-# super projekt abuot pull requests
+# super project about pull requests
